@@ -1,5 +1,5 @@
 ---
-header: Get Started by editing app/page/tsx
+header: Without protected branch
 logo:
   url: /next.svg
   alt: NextJS
