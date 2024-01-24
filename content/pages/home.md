@@ -1,5 +1,5 @@
 ---
-header: Without protected branch
+header: With protected branch
 logo:
   url: /next.svg
   alt: NextJS
