@@ -2440,10 +2440,10 @@
     lodash.merge "^4.6.2"
     postcss-selector-parser "6.0.10"
 
-"@tinacms/app@1.2.37":
-  version "1.2.37"
-  resolved "https://registry.yarnpkg.com/@tinacms/app/-/app-1.2.37.tgz#549cb0dbd5aac7b325fc95d9d16008cfddedaca0"
-  integrity sha512-szutC0FrHpM8Qr2jZFDo7FCzNL8jq691pcHuMTSYz8/nl+1P607E00bjeOd14eHwWSXXv4/c5A3AKKjIgYuDMQ==
+"@tinacms/app@1.2.38":
+  version "1.2.38"
+  resolved "https://registry.yarnpkg.com/@tinacms/app/-/app-1.2.38.tgz#b0f48f503ceb1036c094d0551a5a443f5e32040e"
+  integrity sha512-j5Iq45K2GpDp0gcQv2lqAFPXJRNqBs2z/QPYXgkg48fByLu2e82AYjLVMVjY5+kzhJ1W03TZ2jMoIiQSTuR5zA==
   dependencies:
     "@codemirror/language" "6.0.0"
     "@graphiql/toolkit" "0.8.4"
@@ -2461,14 +2461,14 @@
     react-dom "17.0.2"
     react-router-dom "6.3.0"
     tailwindcss "^3.2.7"
-    tinacms "1.5.30"
+    tinacms "1.6.0"
     typescript "^4.6.4"
     zod "^3.14.3"
 
-"@tinacms/cli@^1.5.41":
-  version "1.5.41"
-  resolved "https://registry.yarnpkg.com/@tinacms/cli/-/cli-1.5.41.tgz#7111bc9132ee5f104f59500cf05616be7df75ae4"
-  integrity sha512-xB8G4vnfwHGSI+9uX1VuBz5hIwCMv/AoIYJKzVd9bEbxoRWJmosY+JjU25ZIYpb4PYylCN91MzWrR8c7byJ12Q==
+"@tinacms/cli@^1.5.42":
+  version "1.5.42"
+  resolved "https://registry.yarnpkg.com/@tinacms/cli/-/cli-1.5.42.tgz#21c270485d23377a42fd133fb43adbf6802c9f62"
+  integrity sha512-qSr+oPsDQvGo2w0pdvl6lW8Mt7krYSpjdWENaMLLkH/CxjUvUGLrc1aAPhDLHfj1mg1+dh6cU3D6oEAhzOeyog==
   dependencies:
     "@graphql-codegen/core" "^2.1.0"
     "@graphql-codegen/plugin-helpers" latest
@@ -2484,7 +2484,7 @@
     "@tailwindcss/aspect-ratio" "^0.4.0"
     "@tailwindcss/line-clamp" "^0.3.1"
     "@tailwindcss/typography" "^0.5.9"
-    "@tinacms/app" "1.2.37"
+    "@tinacms/app" "1.2.38"
     "@tinacms/datalayer" "1.2.33"
     "@tinacms/graphql" "1.4.33"
     "@tinacms/metrics" "1.0.2"
@@ -2529,7 +2529,7 @@
     readable-stream "^4.3.0"
     rollup-plugin-visualizer "^5.9.0"
     tailwindcss "^3.2.7"
-    tinacms "1.5.30"
+    tinacms "1.6.0"
     typanion "3.13.0"
     typescript "4.3.5"
     url-pattern "^1.0.3"
@@ -9261,10 +9261,10 @@ tinacms-gitprovider-github@^1.0.0:
     "@octokit/rest" "^19.0.7"
     js-base64 "^3.7.4"
 
-tinacms@1.5.30, tinacms@^1.5.24:
-  version "1.5.30"
-  resolved "https://registry.yarnpkg.com/tinacms/-/tinacms-1.5.30.tgz#c228614c90c9d7283f0d68810a80d4aa4debd2f3"
-  integrity sha512-vho540vCEuMSo/eyxBlpVqJZy/LASliG2t2zGHAHKVpm4+GWardQV3xDONEN+btRFbe9UF/3cg6hCvYVGAwGug==
+tinacms@1.6.0, tinacms@^1.5.24:
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/tinacms/-/tinacms-1.6.0.tgz#2296fb8934cb81800590dafc89ffdf08f518706b"
+  integrity sha512-NLxybsPOcSzZ+wYcxx93JXQ/yT5b9gW29AP3hkTyT9rpyoPrtITRFEhJ+Ac7AwkPmKk3dvzuaDga6DCaxvAaKg==
   dependencies:
     "@floating-ui/dom" "^1.4.4"
     "@floating-ui/react-dom" "^2.0.1"
